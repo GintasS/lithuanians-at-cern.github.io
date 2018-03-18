@@ -1,5 +1,5 @@
 # lithuanians-at-cern.github.io
-[lithuanians-at-cern.github.io](lithuanians-at-cern.github.io)
+[lithuanians-at-cern.github.io](https://lithuanians-at-cern.github.io/)
 
 ## Instrukcija 
 
