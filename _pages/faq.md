@@ -12,14 +12,14 @@ Mažiaus kaina yra 18.50 EUR ir 14 CHF už naktį atitinkamai, bet patartina ki
 Alternatyviai galima mėginti ieškoti trumpalaikės nuomos. Pigiausi kambariai nuo 500 EUR (labai retai) iki beveik ~1000 EUR į mėnesį. Ieškoti galima pvz. [CERN Market]( cern.ch/market ).
 
 ## Kokios maisto parduotuvės yra aplink CERN?
-Saint Genis Pouilly esančiame Carrefour parduotuve kainos yra šiek tiek didesnės negu Lietuvoje ir mažesnės nei Šveicarijoje. Carrefour nėra pati pigiausia parduotuvė St Genis. Be to kainų skirtumas priklauso nuo individualių maisto produktų. Šveicarijos pusėje yra nedidelė Coop parduotuvė (Meyrin). Abi parduotuvės pasiekiamos viešuoju transportu. 
+Saint Genis Pouilly esančiame Carrefour parduotuvėje kainos yra šiek tiek didesnės negu Lietuvoje ir mažesnės nei Šveicarijoje. Carrefour nėra pati pigiausia parduotuvė St Genis. Šiek tiek toliau nuo centro yra Intermarche. Be to kainų skirtumas priklauso nuo individualių maisto produktų. Šveicarijos pusėje yra nedidelė Coop parduotuvė (Meyrin). Abi parduotuvės pasiekiamos viešuoju transportu. 
 
 ## Kiek kainuoja viešasis transportas?
 Iš St Genis tiek į Meyrin, tiek į Prévessin ir atgal veža nemokamas [CERN autobusas](https://smb-dep.web.cern.ch/en/ShuttleService/Circuit2)
 
 60 min dabar kainuoja 3 CHF pagrindinei miesto zonai (10). Bilietų tipų pasirinkimas yra nemažas.
 
-Atvykstant per Ženevos oro uostą, bagažo skyriuje  galima pasiimti nemokamą vienos dienos viešojo transporto bilietą. Į oro uostą veža ir CERN autobusiukas. 
+Atvykstant per Ženevos oro uostą, bagažo skyriuje galima pasiimti nemokamą 90 min viešojo transporto bilietą, svarbu su savimi turėti "boarding pass", nes jį reikės pateikti kontrolei. Į ir iš oro uosto veža ir [CERN autobusas](https://smb-dep.web.cern.ch/en/ShuttleService/Circuit4)
 
 ## Kur būtų galima pramokti prancūzų kalbos?
 
