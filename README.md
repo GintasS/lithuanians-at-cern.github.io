@@ -9,10 +9,10 @@
 
 ### Turinio pridėjimas
 * Naujienos (Postai):
-	* Pagal pavizdį `_pages` direktorijoje sukuriamas kitas failas. 
+	* Pagal pavizdį `_posts` direktorijoje sukuriamas kitas failas. 
 * Puslapis:
-	* Pagal pavizdį `_posts` direktorijoje sukuriamas failas.
-	* Tam, kad jis būtų pasiekimas iš puslapio, `_data\navigation.yml` reikia pridėti įrašą apie jį.
+	* Pagal pavizdį `_pages` direktorijoje sukuriamas failas.
+	* Tam, kad jis būtų pasiekimas iš puslapio, `_data/navigation.yml` reikia pridėti įrašą apie jį.
 * Juodraščiai laikomi `_draft` direktorijoje.
 * `index.html` yra titulinis puslapis 
 
