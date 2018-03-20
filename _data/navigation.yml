@@ -4,6 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 #  - title: "Apie"
 #    url: /about/
+  - title: "Pagrindinis"
+    url: /
   - title: "D.U.K"
     url: /faq/
   - title: "Kontaktai"
