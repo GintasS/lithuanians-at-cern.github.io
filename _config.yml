@@ -260,8 +260,8 @@ defaults:
       share: true
       related: true
       header:
-        overlay_image: /assets/images/lithuanians-at-cern.jpg
-        og_image: /assets/images/page-header-og-image.png
+        show_overlay_excerpt: false
+        image: /assets/images/Lithuanians.jpg
         caption: 
         cta_url: 
   # _pages
