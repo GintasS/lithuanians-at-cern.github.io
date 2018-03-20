@@ -9,7 +9,7 @@ Dažniausiai studentai gyvena CERN [Saint Genis Pouilly](https://smb-dep.web.cer
 
 Mažiaus kaina yra 18.50 EUR ir 14 CHF už naktį atitinkamai, bet patartina kiek galima greičiau užsirezervuoti. Rezervacijos taisyklės yra labai lanksčios, todėl rezervaciją galima lengvai keisti.
 
-Alternatyviai galima mėginti ieškoti trumpalaikės nuomos. Pigiausi kambariai nuo 500 EUR (labai retai) iki beveik ~1000 EUR į mėnesį. Ieškoti galima pvz. [CERN Market]( cern.ch/market ).
+Alternatyviai galima mėginti ieškoti trumpalaikės nuomos. Pigiausi kambariai nuo 500 EUR (labai retai) iki beveik ~1000 EUR į mėnesį. Ieškoti galima pvz. [CERN Market]( http://cern.ch/market ).
 
 ## Kokios maisto parduotuvės yra aplink CERN?
 Saint Genis Pouilly esančiame Carrefour parduotuvėje kainos yra šiek tiek didesnės negu Lietuvoje ir mažesnės nei Šveicarijoje. Carrefour nėra pati pigiausia parduotuvė St Genis. Šiek tiek toliau nuo centro yra Intermarche. Be to kainų skirtumas priklauso nuo individualių maisto produktų. Šveicarijos pusėje yra nedidelė Coop parduotuvė (Meyrin). Abi parduotuvės pasiekiamos viešuoju transportu. 
