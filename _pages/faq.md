@@ -37,7 +37,7 @@ Alternatyva (bet ne visada pasiteisina) yra skristi į MXP (Milan-Malpensa Airpo
 
 ## Koks sveikatos draudimas reikalinkas vykstant į CERN?
 
-HID (Home Institution Declaration) dokumente parašyta:
+[HID (Home Institution Declaration) dokumente]( http://usersoffice.web.cern.ch/sites/usersoffice.web.cern.ch/files/pdf/Formalities/HomeInstitutionDeclarationforUO.pdf ) parašyta:
 Social insurance is the responsibility of the home institution and, that failing, of the candidate;
 in particular, the candidate will make sure that he/she has medical insurance that is adequate in
 Switzerland and France for him/herself and accompanying family members, which shall include cover
