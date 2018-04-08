@@ -12,3 +12,12 @@ main:
     url: /contacts/
   - title: "Svetainės turinys"
     url: /sitemap/
+
+contacts:
+  - title: "Kontaktai"
+    url: /contacts/
+    children:
+      - title: "Žmonės"
+        url: /docs/structure/
+      - title: "Alumni"
+        url: /docs/installation/
