@@ -279,7 +279,12 @@ defaults:
       #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
       #   cta_url: ß"https://unsplash.com"
 
+collections_dir: collections
 collections:
   contacts:
     output: true
-    permalink: /:collection/:path/
+    permalink: /contacts/people/:path/
+  alumni:
+    output: true
+    permalink: /contacts/alumni/:path/
+

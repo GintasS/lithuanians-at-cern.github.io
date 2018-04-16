@@ -1,6 +1,6 @@
 ---
 title: People contacts
-layout: archive
+layout: collection
 permalink: /contacts/people
 collection: contacts
 entries_layout: grid
