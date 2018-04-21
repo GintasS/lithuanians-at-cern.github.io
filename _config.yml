@@ -252,13 +252,13 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
       author_profile: false
       read_time: true
-      comments: # true
+      comments: # trueß
       share: true
       related: true
       header:
