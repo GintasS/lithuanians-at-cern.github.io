@@ -1,6 +1,6 @@
 ---
-title: "Zmogus 1"
-excerpt: "Labai geras zmogus"
+title: "Darbo pozicija 2 (test skelbimas)"
+excerpt: (test skelbimas)
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

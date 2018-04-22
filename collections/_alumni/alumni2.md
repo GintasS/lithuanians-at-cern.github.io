@@ -1,7 +1,11 @@
 ---
-title: "Zmogus 1"
-excerpt: "Labai geras zmogus"
+title: "Alumin 2"
+excerpt: "Labai geras alumnis 2"
+header:
+  teaser: /assets/images/foo-bar-identity-th.jpg
+<!--   teaser: /assets/images/star_avatar.jpg -->
 ---
+<!-- TODO image of 600x400 looks nice, other are cut -->
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

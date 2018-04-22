@@ -252,7 +252,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -278,13 +278,84 @@ defaults:
       #   og_image: /assets/images/page-header-og-image.png
       #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
       #   cta_url: ß"https://unsplash.com"
-
+  - scope:
+      path: ""
+      type: contacts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: contacts
+  - scope:
+      path: ""
+      type: alumni
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: contacts
+  - scope:  
+      path: ""
+      type: jobs
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: main_sidebar
+  - scope:
+      path: ""
+      type: messages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: main_sidebar  
+  - scope:
+      path: ""
+      type: interships
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: main_sidebar
+  - scope:
+      path: ""
+      type: conferences
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: main_sidebar
 collections_dir: collections
 collections:
   contacts:
     output: true
     permalink: /contacts/people/:path/
+    layout: single
   alumni:
     output: true
     permalink: /contacts/alumni/:path/
-
+    layout: single
+  # ---  
+  jobs:
+    output: true
+    permalink: /jobs/:path/
+    layout: single 
+  messages:
+    output: true
+    permalink: /messages/:path/
+    layout: single 
+  interships:
+    output: true
+    permalink: /interships/:path/
+    layout: single
+  conferences:
+    output: true
+    permalink: /conferences/:path/
+    layout: single

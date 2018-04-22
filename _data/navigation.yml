@@ -21,3 +21,13 @@ contacts:
         url: /contacts/people
       - title: "Alumni"
         url: /contacts/alumni
+
+main_sidebar:
+  - title: "Konferencijos"
+    url: /conferences/
+  - title: "Darbo skelbimai"
+    url: /jobs/ 
+  - title: "Stažuotės"
+    url: /interships/ 
+  - title: "Pranešimai"
+    url: /messages/ 
