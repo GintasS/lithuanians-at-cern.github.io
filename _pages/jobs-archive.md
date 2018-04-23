@@ -1,7 +1,7 @@
 ---
 title: Darbo skelbimai
 layout: collection
-permalink: /jobs
+permalink: /jobs/
 collection: jobs
 classes: wide
 sidebar:

@@ -1,7 +1,7 @@
 ---
 title: Konferencijos
 layout: collection
-permalink: /conferences
+permalink: /conferences/
 collection: conferences
 classes: wide
 sidebar:

@@ -18,9 +18,9 @@ contacts:
     url: /contacts/
     children:
       - title: "Žmonės"
-        url: /contacts/people
+        url: /contacts/people/
       - title: "Alumni"
-        url: /contacts/alumni
+        url: /contacts/alumni/
 
 main_sidebar:
   - title: "Konferencijos"

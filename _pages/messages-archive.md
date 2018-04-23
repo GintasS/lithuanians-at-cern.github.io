@@ -1,7 +1,7 @@
 ---
 title: Pranešimai
 layout: collection
-permalink: /messages
+permalink: /messages/
 collection: messages
 classes: wide
 sidebar:

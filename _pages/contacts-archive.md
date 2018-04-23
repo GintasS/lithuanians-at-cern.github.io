@@ -1,7 +1,7 @@
 ---
 title: People contacts
 layout: collection
-permalink: /contacts/people
+permalink: /contacts/people/
 collection: contacts
 <!-- entries_layout: grid -->
 classes: wide

@@ -1,7 +1,7 @@
 ---
 title: Stažuotės
 layout: collection
-permalink: /interships
+permalink: /interships/
 collection: interships
 classes: wide
 sidebar:
