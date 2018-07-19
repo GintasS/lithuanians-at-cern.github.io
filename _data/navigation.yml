@@ -23,11 +23,24 @@ contacts:
         url: /contacts/alumni/
 
 main_sidebar:
-  - title: "Konferencijos"
-    url: /conferences/
-  - title: "Darbo skelbimai"
-    url: /jobs/ 
-  - title: "Stažuotės"
-    url: /interships/ 
-  - title: "Pranešimai"
-    url: /messages/ 
+  - title: "Naudingos nuorodos"
+    children:
+      - title: "Konferencijos"
+        url: /conferences/
+      - title: "Darbo skelbimai"
+        url: /jobs/
+      - title: "Stažuotės"
+        url: /interships/
+      - title: "Pranešimai"
+        url: /messages/ 
+
+faq:
+  - title: "D.U.K."
+    children:
+        - title: "Bendri D.U.K"
+          url: /faq/
+        - title: "Studentų D.U.K"
+          url: /faq/for-students/
+        - title: "D.U.K aplikuojantėms į darbo poziciją"
+          url: /faq/for-applicants/
+      

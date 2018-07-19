@@ -1,7 +1,10 @@
 ---
 permalink: /faq/
-title: "D.U.K"
+title: "Bendri D.U.K"
 toc: true
+classes: wide
+sidebar:
+  nav: faq
 ---
 
 ## Kokios yra laikino apsigyvendinimo galimybės CERN?
@@ -38,11 +41,13 @@ Alternatyva (bet ne visada pasiteisina) yra skristi į MXP (Milan-Malpensa Airpo
 ## Koks sveikatos draudimas reikalinkas vykstant į CERN?
 
 [HID (Home Institution Declaration) dokumente]( http://usersoffice.web.cern.ch/sites/usersoffice.web.cern.ch/files/pdf/Formalities/HomeInstitutionDeclarationforUO.pdf ) parašyta:
-Social insurance is the responsibility of the home institution and, that failing, of the candidate;
-in particular, the candidate will make sure that he/she has medical insurance that is adequate in
-Switzerland and France for him/herself and accompanying family members, which shall include cover
-for occupational illness and accidents for him/herself;
-he/she has adequate financial resources to support him/herself and accompanying family members;
-the home institution is responsible for verifying continuing compliance with the above conditions;
+
+
+> Social insurance is the responsibility of the home institution and, that failing, of the candidate;
+> in particular, the candidate will make sure that he/she has medical insurance that is adequate in
+> Switzerland and France for him/herself and accompanying family members, which shall include cover
+> for occupational illness and accidents for him/herself;
+> he/she has adequate financial resources to support him/herself and accompanying family members;
+> the home institution is responsible for verifying continuing compliance with the above conditions;
 
 Europos sveikatos kortelė gali padengti tik dalį išlaidų (lietuviškomis kainoms), todėl pravartu įsigyti papildomą draudimą.
