@@ -3,6 +3,15 @@
 
 ## Instrukcija 
 
+## Lokalus developmentas
+Isidiegit dockeri. Tada
+
+```bash
+git clone git@github.com:lithuanians-at-cern/lithuanians-at-cern.github.io.git
+cd lithuanians-at-cern.github.io
+docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
+```
+
 ### Naudingos nuorodos
 * [Temos dokumentacija](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 * [Pavyzdžiai](https://github.com/mmistakes/minimal-mistakes/tree/gh-pages-3.1.6)
