@@ -3,8 +3,8 @@
 
 ## Instrukcija 
 
-## Lokalus developmentas
-Isidiegit dockeri. Tada
+## Lokalus development'as
+Isidiekit docker'į. Tada
 
 ```bash
 git clone git@github.com:lithuanians-at-cern/lithuanians-at-cern.github.io.git
