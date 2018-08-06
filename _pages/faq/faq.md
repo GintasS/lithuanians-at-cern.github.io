@@ -32,6 +32,8 @@ Yra taipogi Ženevos universitete pigios studijos (bet reikia laukti kada gali u
 
 Profesionalūs kursai pačiame CERN ar išorėje kainuoja kelis šimtus CHF.
 
+[Iboux](http://iboux.com/) - tai virtuali kalbų mokymsi platforma, kur pamokos vyksta  "1 to 1" su mokytoju. Nusipirkus ilgesnio trukmės paketa (30 valandų), 1 valandos trukmės pamoka kainuoja 15 frankų. Šios platformos privalumai yra tai, kad galima mokytis iš bet kur, pamokų tvarkaraštį deliotis pagal save, visa mokytojo dėmėsys yra sukoncentruotas į tave. Rekomenduoju.
+
 ## Kokie populiariausi maršrutai iš Lietuvos į CERN?
 
 Dažniausiai renkamės airBaltic, Brussels Airlines, Ukraine International Airlines ar LOT (Polish Airlines) iš ekonominės pusės. Tada maršrutas VNO -> GVA -> VNO (round-trip) pigiausiai gaunasi ~150 EUR. Standartinė kaina yra kažkur tarp 200-250 EUR.
@@ -51,3 +53,32 @@ Alternatyva (bet ne visada pasiteisina) yra skristi į MXP (Milan-Malpensa Airpo
 > the home institution is responsible for verifying continuing compliance with the above conditions;
 
 Europos sveikatos kortelė gali padengti tik dalį išlaidų (lietuviškomis kainoms), todėl pravartu įsigyti papildomą draudimą.
+
+## Kokios yra vietinės transporto galimybės?
+
+* [TPG](https://www.tpg.ch/) - vešiojo transporto puslapis Ženevos regione;
+* [SBB](https://www.sbb.ch/en/home.html) - tarmiestiniai traukiniai Šveicarijoje;
+* [https://www.blablacar.fr/](https://www.blablacar.fr/) - pavežėjimo platforma;
+* Yra galimybė nuomotis automobilį iš šalia oro uosto esančių nuomos bendrovių (pigiausia yra Prancuzijos pusėje)
+* [Drivy.com](https://www.drivy.com/) - automibilių nuoma iš žmonių, principas panašus į Airbnb;
+* [auvergnerhonealpes.fr](https://www.auvergnerhonealpes.fr/253-transport-interurbain.htm) - čia čia galima rasti informaciją apie viešąjį transportą Haute-Savoie regione;
+* Easybys.com kursuoja marštru "Geneva airport - Chamonix Bus Station;
+* Ir dar kelios, apie kurias plačiau [čia](www.google.com). 
+
+## Ar yra taikomos nuolaidos transporto bilietams (reikėtų patikrinti) ?
+
+Yra dviejų tipų nuolaidų kortelės:
+
+* Taip vadinamas "Halfteris" (apie 180 chf) - suteikia 50 % nuolaida metams viešajam transportui į kuriuos įeina traukiniai, keltuvai bei laivai visoje Šveicarijoje. Ji suteikia galimybę įsigyti toliau išvardintas korteles.
+* "7pm to 7am" (apie 120 chf) - šios kortelės dėka galima naudotis traukiniais Šveicarijoje nemokamai tarp 19 ir 7 val., tačiau ją galima įsigyti tik esant jaunesniam nei 25 metai.
+* Taip pat yra galimybė įsigyti kortelę, kuri suteikia 12 dienų keliauti nemokamai per metus pasirinktomis dienomis. 
+
+Visos šios kortelės gali būti įsigytos SBB astovybėse. Taip pat SBB kartas nuo karto organizuoja akcijas ( pvz. galima įsigyti bilieta, su kuriuo galima keliauti nemokamai visą dieną).
+
+
+
+
+
+
+
+
