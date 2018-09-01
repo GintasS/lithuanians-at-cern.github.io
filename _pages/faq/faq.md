@@ -63,6 +63,7 @@ Europos sveikatos kortelė gali padengti tik dalį išlaidų (lietuviškomis kai
 * [Drivy.com](https://www.drivy.com/) - automibilių nuoma iš žmonių, principas panašus į Airbnb;
 * [auvergnerhonealpes.fr](https://www.auvergnerhonealpes.fr/253-transport-interurbain.htm) - čia čia galima rasti informaciją apie viešąjį transportą Haute-Savoie regione;
 * Easybys.com kursuoja marštru "Geneva airport - Chamonix Bus Station;
+* Flixbus.com vyksta iš ženevos į Milaną;
 * Ir dar kelios, apie kurias plačiau [čia](https://www.google.com). 
 
 ## Ar yra taikomos nuolaidos transporto bilietams (reikėtų patikrinti) ?
