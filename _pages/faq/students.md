@@ -19,3 +19,13 @@ Daugiau info: [Summer Studens programos FAQ](https://hr-dep.web.cern.ch/content/
 Šiuo metu Summer Students programų dalyviams už kiekvieną praktikos dieną (įskaitant savaitgalius) yra mokami 90 CHF dienpinigiai. Žinoma, ši programa turi atranką ir norinčių joje dalyvauti yra daug daugiau nei laisvų vietų.
 
 Rekomenduočiau pirma aplikuoti į šią programą, o nepavykus, vykti į ERASMUS programos finansuojamą vietą iš Vilniaus Universiteto.
+
+## Ar apmokama praktika bus užskaityta kaip MIF profesinė praktika numatyta studijų programoje?
+Kadangi programa vyksta vasarą ir programos trukmė skiriasi nuo reikalaujamos, šis klausimas priklauso nuo studijų programos komiteto pirmininko. Todėl rekomenduočiau šį klausimą aptarti su jūsų studijų programos komiteto pirmininku. 
+
+Nepavykus susitarti, visada galima vykti į ERASMUS programos (dalinai) finansuojamą vietą iš Vilniaus Universiteto kuri atitinka visus MIF profesinės praktikos reikalavimus.
+
+## Kokias galimybes turi MIF studentai, norintys atlikti ERASMUS programos finansuojamą praktiką CERN?
+Kiekvienais metais dėstytojo Algimanto Juozapavičiaus pagalba studentai yra siunčiami stažuotis į CERN. Praktikos pobūdis, atlikimo laikas ir trukmė atitinka MIF studijų programose numatomus praktikos reikalavimus. Programos dalyviams yra mokama ERASMUS programos stipendija kuri tik dalinai padengia praktikos metu patiriamas išlaidas. Dėl to pirma rekomenduočiau apsvarstyti apmokamos praktikos galimybes.
+
+Dėl išsamesnės informacijos kreipkitės į Algimantą Juozapavičių (Algimantas.Juozapavicius[NOSPAM]cern.ch)
