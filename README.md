@@ -4,12 +4,18 @@
 ## Instrukcija 
 
 ## Lokalus development'as
-Isidiekit docker'į. Tada
+Isidiekit docker'į. Tada:
 
 ```bash
 git clone git@github.com:lithuanians-at-cern/lithuanians-at-cern.github.io.git
 cd lithuanians-at-cern.github.io
-docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve  # leisti su `sudo` jei truksta teisiu
+
+# paleidziam dockeri ir prisijungiam prie terminalo
+docker run -it -p 4000:4000 -v $(pwd):/site jekyll/jekyll  /bin/bash   # leisti su `sudo` jei truksta teisiu
+cd /site    # mountpointas i musu puslapio src
+bundle install  # sudiegiam dependency
+jekyll serve      # paleidziam serveri 
+
 ```
 
 ### Naudingos nuorodos
