@@ -13,5 +13,5 @@ Oficialiai startuoja CERN Baltijos grupė.
 
 Įsteigti trys CBG pogrupiai: CMS, studijų ir santykiams su industrija.
 
-![DG&DG](/assets/images/20180431/201803-129_01_1080.jpg "CERN Baltijo grupės
-dalyviai. Iš antrojo CBG susirinkimo.")
+![DG&DG](/assets/images/2018/2018-05-28_201803-129_01_1080.jpg
+"CERN Baltijo grupės dalyviai. Iš antrojo CBG susirinkimo.")

@@ -1,7 +1,11 @@
 # lithuanians-at-cern.github.io
 [lithuanians-at-cern.github.io](https://lithuanians-at-cern.github.io/)
 
-## Instrukcija 
+## Instrukcija
+
+Nepatingime ir naudojame *webp*, jpg seniai nusipelnęs keliauti į istorijos
+šiukšlyną.
+
 
 ## Lokalus development'as
 Isidiekit docker'į. Tada
