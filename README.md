@@ -18,9 +18,20 @@ cd lithuanians-at-cern.github.io
 docker run -it -p 4000:4000 -v $(pwd):/site jekyll/jekyll  /bin/bash   # leisti su `sudo` jei truksta teisiu
 cd /site    # mountpointas i musu puslapio src
 bundle install  # sudiegiam dependency
-jekyll serve      # paleidziam serveri 
-
+jekyll serve      # paleidziam serveri
 ```
+
+
+### Kylant problemoms
+
+Kylantys atvejai:
+
+* No file descriptors available - Failed to initialize inotify: the user limit on 
+the total number of inotify instances has been reached.
+```bash
+sudo echo 256 > /proc/sys/fs/inotify/max_user_instances
+```
+
 
 ### Naudingos nuorodos
 * [Temos dokumentacija](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
