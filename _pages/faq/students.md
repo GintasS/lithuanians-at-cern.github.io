@@ -10,7 +10,7 @@ sidebar:
 ## Ar yra galimybė atlikti apmokamą praktiką CERN?
 Taip!
 
-Lietuvai tapus CERN nare (Member State), studentai iš lietuvos universitetų gali aplikuoti į apmokamas praktikos vietas:
+Lietuvai tapus CERN nare (Associate Member State), studentai iš lietuvos universitetų gali aplikuoti į apmokamas praktikos vietas:
 * [Openlab Summer Students](https://home.cern/students-educators/updates/2017/12/applications-open-2018-cern-openlab-summer-students){:target="_blank"} (nuoroda yra į 2018 metų programą, bet rasti naujausią info neturėtų būti sunku)
 * [Summer Students](https://home.cern/students-educators/summer-student-programme){:target="_blank"}
 
@@ -28,4 +28,4 @@ Nepavykus susitarti, visada galima vykti į ERASMUS programos (dalinai) finansuo
 ## Kokias galimybes turi MIF studentai, norintys atlikti ERASMUS programos finansuojamą praktiką CERN?
 Kiekvienais metais dėstytojo Algimanto Juozapavičiaus pagalba studentai yra siunčiami stažuotis į CERN. Praktikos pobūdis, atlikimo laikas ir trukmė atitinka MIF studijų programose numatomus praktikos reikalavimus. Programos dalyviams yra mokama ERASMUS programos stipendija kuri tik dalinai padengia praktikos metu patiriamas išlaidas. Dėl to pirma rekomenduočiau apsvarstyti apmokamos praktikos galimybes.
 
-Dėl išsamesnės informacijos kreipkitės į Algimantą Juozapavičių (Algimantas.Juozapavicius[NOSPAM]cern.ch)
+Dėl išsamesnės informacijos kreipkitės į Valdą Rapševičių (Valdas.Rapsevicius[NOSPAM]mif.vu.lt, Baltupiai 325 k.)
