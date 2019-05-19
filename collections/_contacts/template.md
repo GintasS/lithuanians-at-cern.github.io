@@ -1,6 +1,6 @@
 ---
-title: "Zmogus 1"
-excerpt: "Labai geras zmogus"
+title: "Template"
+excerpt: "Template short description"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

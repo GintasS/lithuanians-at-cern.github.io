@@ -2,11 +2,11 @@
 title: "Aurelijus Rinkevičius"
 excerpt: "Didelių energijų fizikas eksperimentatorius (Vilniaus universitetas)"
 header:
-    teaser: /assets/images/kolektyvas/aurelijus_preview2x1.webp
+    teaser: /assets/images/kolektyvas/Aurelijus_Rinkevicius_preview.webp
 ---
 Didelių energijų fizikas eksperimentatorius (Vilniaus universitetas)
 
-<img src="/assets/images/kolektyvas/aurelijus.webp"
+<img src="/assets/images/kolektyvas/Aurelijus_Rinkevicius.webp"
     alt="Aurelijus Rinkevicius"
     width="30%"/>
 
