@@ -76,6 +76,45 @@ Yra dviejų tipų nuolaidų kortelės:
 
 Visos šios kortelės gali būti įsigytos SBB astovybėse. Taip pat SBB kartas nuo karto organizuoja akcijas ( pvz. galima įsigyti bilieta, su kuriuo galima keliauti nemokamai visą dieną).
 
+## Pajamų deklaravimas Lietuvoje
+
+Šios gairės skirtos pildyti deklaraciją už 2018 metus. 
+
+1. Deklaravimo nuotykis prasideda čia: https://deklaravimas.vmi.lt/lt/Pradinis_Prisijungimo_puslapis/Prisijungimasperisorinessistemas.aspx
+2. Prisijungti per išorines priemones. 
+3. Kiekviena prisijungimo priemonė yra skirtinga (Swedbank atveju prisijungus prie banko reikia spausti "VMI el. paslaugos").
+4. Sėkmės atveju atsidaro VMI deklaravimo sistema EDS.
+5. Atsidaryti “Preliminarios deklaracijos” -> “Metinė pajamų”.
+6. Apatinėje lentelėje “Preliminarių deklaracijų sąrašas” atsidaryti GPM308 v3, kur mokestinis laikotarpis už 2018 metus.
+7. Bus du mygtukai: peržiūrėti arba pildyti. Spausti "pildyti".
+8. GPM308P “Apmokestinamosios pajamos” formoje įrašyti: 
+
+   - P1 - 1, nes [1]
+   - P2 - 01
+   - P3 - CH
+   - P4 - Pajamos Eurais konvertuotos pagal mokestinio laikotarpio paskutinės dienos (šiuo atveju 2018-12-31) Lietuvos Banko kursą [2]
+   - P5 - 0
+   - P6 - 0
+
+9. Spausti "Pateikti deklaraciją", ir pamiršti šią siaubingą sistemą iki kitų metų.
+10. Pasak VMI konsultanto, jokių dokumentų pagrindžiančių neapmokestinamas pajamas kelti į sistemą iš karto nereikia, nebent to paprašys VMI darbuotojai, kai peržiūrės pateiktas deklaracijas.
+
+Kalbant telefonu su VMI konsultantu sužinojau, jog jeigu asmuo tenkina GPMĮ 17 str. 1 dalį, 48 punktą [3], tada jam apskritai nereikia deklaruoti pajamų gautų iš TO (tarptautinių organizacijų). Šiai kategorijai galėtų priklausyti VU siunčiami darbuotojai, bet tai turėtų patvirtinti respektabilus šaltinis iš VU.
+
+Deklaracijos bijoti nereikia, nes pajamos negali būti apmokestinamos du kartus [4].
+
+[1] Teisės aktų registre yra dokumentas, kuriame aiškinama, kaip pildyti deklaraciją. VI SKYRIUS, 25 punktas 
+“Kai 2018 m. nuolatinis Lietuvos gyventojas deklaruoja užsienio valstybėje per 2018 m. mokestinį laikotarpį gautas pajamas, kurios pagal GPMĮ 37 straipsnį yra atleidžiamos nuo pajamų mokesčio Lietuvos Respublikoje, P1 laukelyje vietoje mokesčio tarifo jis turi įrašyti skaitmenį „1“.”
+https://www.e-tar.lt/portal/lt/legalAct/TAR.EBC3BDD66541/IKsRYKEGOp
+
+[2] Lietuvos Banko skelbiamas valiutų kursas 
+https://www.lb.lt/lt/kasdien-skelbiami-euro-ir-uzsienio-valiutu-santykiai-skelbia-europos-centrinis-bankas?class=Eu&type=day&selected_curr=CHF&date_day=2018-12-31
+
+[3] GPMĮ 17 straipsnis. Neapmokestinamos pajamos. http://www.infolex.lt/ta/114178:str17
+
+[4] GPMĮ 37 straipsnis. Pajamų, gautų užsienio valstybėse, dvigubo apmokestinimo panaikinimas.
+http://www.infolex.lt/ta/114178:str37
+
 
 
 
