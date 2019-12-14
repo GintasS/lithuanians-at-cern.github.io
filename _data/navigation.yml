@@ -25,15 +25,15 @@ contacts:
 main_sidebar:
   - title: "Naudingos nuorodos"
     children:
-      - title: "Konferencijos"
-        url: /conferences/
-      - title: "Darbo skelbimai"
-        url: /jobs/
       - title: "Stažuotės"
         url: /interships/
-      - title: "Pranešimai"
-        url: /messages/ 
+      - title: "Konferencijos"
+        url: /conferences/
 
+        #      - title: "Pranešimai"
+        #        url: /messages/ 
+        #      - title: "Darbo skelbimai"
+        #        url: /jobs/
 faq:
   - title: "D.U.K."
     children:
