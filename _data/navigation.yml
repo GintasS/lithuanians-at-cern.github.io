@@ -29,6 +29,10 @@ main_sidebar:
         url: /interships/
       - title: "Konferencijos"
         url: /conferences/
+      - title: "Branduolių ir elementariųjų dalelių fizikos centras"
+        url: https://www.ff.vu.lt/cern/apie-centra
+      - title: "Lietuvos ryšių su CERN portalas"
+        url: http://www.cern.lt
 
         #      - title: "Pranešimai"
         #        url: /messages/ 
