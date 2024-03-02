@@ -5,4 +5,11 @@ classes: wide
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% include_relative /faq/faq.html %}
+<h4>  MANO GUYVENIMAS </h4>
+
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
