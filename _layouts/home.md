@@ -1,9 +1,4 @@
 ---
-layout: archive
-classes: wide
----
-
----
 permalink: /faq/
 title: "Bendri D.U.K"
 toc: true
