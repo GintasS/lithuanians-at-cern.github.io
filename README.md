@@ -2,30 +2,19 @@
   <br /><br /><strong>lithuanians-at-cern.github.io</strong>
 </h1>
 
----
-
-
 ## Įvadas
 
 
 <a href="https://lithuanians-at-cern.github.io/" target="_blank">lithuanians-at-cern.github.io</a> yra Lietuvių bendruomenės CERN puslapis. Jis yra sukurtas su su Jekyll, Bootstrap 4 ir GitHub pages. Puslapis nėra fancy, bet jis yra skirtas perteikti esminę informacija lietuviams, pradedančiams savo kelionę CERN'e.
-
-
----
 
 ## Table of contents
 
 - [Paleidimas](#paleidimas)
 - [DUK](#duk)
 
-
----
-
 ## Paleidimas
 
 Paleidimo instrukcijos yra čia: <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/" target="_blank">nuoroda</a>.
-
----
 
 ## DUK
 
@@ -74,10 +63,6 @@ Tai yra visai paprastas procesas:
 ### Kaip buvo sukurtas puslapis?
 
 Puslapis buvo paiimtas iš <a href="https://github.com/nicolas-van/bootstrap-4-github-pages" target="_blank"> nuoroda</a> atvirojo kodo repozitorijos.
-
----
-
-
 
 
 <!-- markdownlint-enable -->
