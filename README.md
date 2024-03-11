@@ -10,11 +10,25 @@
 ## Table of contents
 
 - [Paleidimas](#paleidimas)
+- [Struktūra](#struktura)
 - [DUK](#duk)
 
 ## Paleidimas
 
 Paleidimo instrukcijos yra <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/" target="_blank">čia</a>.
+
+## Struktūra
+
+| Folderis/Failas    | Informacija |
+| -------- | ------- |
+| _includes_  | Saugomi pernaudojami .html failai kiekvienam puslapiui (footer, head, header). |
+| _layouts_ | Saugomi .html failai, aprašantys puslapio struktūrą.     |
+| _sass_    | Saugomi konfigūraciniai bootstrap failai (sukompiliuota bootstrap biblioteka, galima customazinti).    |
+| assets    | Saugomi statiniai failai, kaip nuotraukos ar css ir .js.   |
+| _config.xml    | Jekyll configuracija |
+| update_bootstrap.sh | Scriptas turėtų upgradinti bootstrap versija |
+| _sass/_variables.scss | Failas, skirtas keisti pagrindinius bootstrap elementus |
+
 
 ## DUK
 
@@ -49,7 +63,7 @@ Tai yra visai paprastas procesas:
             </h5>
       </div>
 
-      <div id="collapse1" class="collapse show" aria-labelledby="heading1" data-parent="#faqExample">
+      <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#faqExample">
           <div class="card-body">
             Atsakymas
           </div>
@@ -58,6 +72,9 @@ Tai yra visai paprastas procesas:
     ```
 4. Pakeičiate Klausimo ir Atsakymo vietą. 
 5. Taip pat pakeičiate skaičiukus prie ```id="heading1"```, ```data-target="#collapse1"```, ```id="collapse1"```, ```aria-labelledby="heading1"``` į kitą skaičiuką kurio nėra, pvz 50.
+
+  Šie skaičiukai yra naudojami sulinkinti cardą (```<div class="card-header p-2">```) su turiniu (```<div id="collapse1" class="collapse"```).
+
 6. Išsaugojate ```index.html``` failą.
 
 ### Kaip buvo sukurtas puslapis?
