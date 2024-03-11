@@ -14,7 +14,7 @@
 
 ## Paleidimas
 
-Paleidimo instrukcijos yra čia: <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/" target="_blank">nuoroda</a>.
+Paleidimo instrukcijos yra <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/" target="_blank">čia</a>.
 
 ## DUK
 
@@ -62,7 +62,7 @@ Tai yra visai paprastas procesas:
 
 ### Kaip buvo sukurtas puslapis?
 
-Puslapis buvo paiimtas iš <a href="https://github.com/nicolas-van/bootstrap-4-github-pages" target="_blank"> nuoroda</a> atvirojo kodo repozitorijos.
+Puslapis buvo paiimtas iš atvirojo kodo <a href="https://github.com/nicolas-van/bootstrap-4-github-pages" target="_blank">repozitorijos</a>.
 
 
 <!-- markdownlint-enable -->
